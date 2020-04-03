@@ -1,3 +1,5 @@
+# Predicting Housing Prices FL-Region in-US
+
 The goal of this project is to help out my neighbor, a real estate agent, who asked for some help on predicting housing prices for FL regions in the USA. In the context of ML, my work will be principally focused on creating the most suitable models that allows her to put in a few features of a house and returns back an estimate of what the house would sell for.
 
 Methodology:
